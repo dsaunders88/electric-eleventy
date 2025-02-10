@@ -1,4 +1,4 @@
-# DS Eleventy Starter (Electric Eleventy ⚡️)
+# Electric Eleventy Starter ⚡️
 
 This is an Eleventy 3.0 + Lightning CSS starter repository that I use to scaffold most of my freelance studio's marketing/brochure site projects. In addition to some basic tooling and features, it includes a number of opinionated decisions about how I prefer to work with Eleventy. It's meant mainly as a shortcut for me, but if others find it useful, that's great, too!
 
@@ -37,7 +37,7 @@ The easiest way to use this starter repository is to click "Use this template" a
 Navigate to your local directory and use npm (or other package manager) to install dependencies.
 
 ```node
-cd ds-eleventy-starter
+cd electric-eleventy
 ```
 
 ```node
